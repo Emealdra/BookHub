@@ -5,7 +5,6 @@ import Browse from './pages/Browse'
 import Random from './pages/Random'
 import Trending from './pages/Trending'
 import Navbar from './components/Navbar'
-import './App.css'
 
 export default function App() {
   return (
